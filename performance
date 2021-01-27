@@ -1,1 +1,3 @@
+1. 查看各个模块进出数据量
+https://blog.csdn.net/weixin_35494719/article/details/60761540
 curl -XGET http://localhost:9600/_node/stats/pipelines?pretty
